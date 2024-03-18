@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClearMeasureLibrary", "ClearMeasureLibrary\ClearMeasureLibrary.csproj", "{176DB6C9-B39C-48E2-A390-09C5DF00446F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClearMeasureLibrary.Tests", "ClearMeasureLibrary.Tests\ClearMeasureLibrary.Tests.csproj", "{CDE7EBEC-087D-4243-B501-38E0424B2874}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{176DB6C9-B39C-48E2-A390-09C5DF00446F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{176DB6C9-B39C-48E2-A390-09C5DF00446F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{176DB6C9-B39C-48E2-A390-09C5DF00446F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{176DB6C9-B39C-48E2-A390-09C5DF00446F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDE7EBEC-087D-4243-B501-38E0424B2874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDE7EBEC-087D-4243-B501-38E0424B2874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDE7EBEC-087D-4243-B501-38E0424B2874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDE7EBEC-087D-4243-B501-38E0424B2874}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56AC1272-BC8C-4F73-BB2D-4E4CAB56F189}
+	EndGlobalSection
+EndGlobal
